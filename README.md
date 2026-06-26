@@ -28,6 +28,7 @@ fanpage-deftones/
 │── shows.html
 │── clipes.html
 │── galeria.html
+│── discografia.html
 │── style.css
 │── imagens/
 
