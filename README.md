@@ -1,5 +1,9 @@
 # Fanpage Deftones 🎸
 
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?logo=github&logoColor=white)](https://dyeggomg.github.io/fanpage-deftones/)
+
 Uma fanpage dedicada à banda **Deftones**, criada como projeto de estudo em HTML, CSS e GitHub Pages.
 
 ## 🚀 Funcionalidades
@@ -15,6 +19,7 @@ Uma fanpage dedicada à banda **Deftones**, criada como projeto de estudo em HTM
 - Git & GitHub
 
 ## 📂 Estrutura do projeto
+
 fanpage-deftones/
 │── index.html
 │── shows.html
@@ -23,8 +28,8 @@ fanpage-deftones/
 │── style.css
 │── imagens/
 
+
 ## 🌐 Deploy
-O projeto está disponível em:  
 👉 [Fanpage Deftones no GitHub Pages](https://dyeggomg.github.io/fanpage-deftones)
 
 ## 📸 Preview
@@ -32,3 +37,4 @@ O projeto está disponível em:
 
 ## ✨ Autor
 Desenvolvido por **Diego (dyeggomg)** no DevClub 🚀
+
